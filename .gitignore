@@ -1,0 +1,16 @@
+# Local runtime data and generated artifacts
+env/
+vendor/
+models/
+cache/
+assets/*.blend
+assets/*.blend1
+results/
+report/
+tools/
+output/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
